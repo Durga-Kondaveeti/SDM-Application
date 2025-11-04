@@ -84,8 +84,7 @@ Hosted on **AWS**, the backend includes both server and database components.
 
 ## 🧑‍💻 Contributors
 - **Durga** – Application Development  
-- **Bala** – Backend Integration  
-- **Jagadesh** – Data and Pricing Management  
+- **Bala** – Backend Integration 
 
 ---
 
