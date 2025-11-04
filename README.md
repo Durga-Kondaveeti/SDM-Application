@@ -1,6 +1,6 @@
-# 🧾 SDM Application
+# 🧾 Inventory Application
 
-The **SDM Application** is designed to streamline stock management and pricing visibility while protecting sensitive business information. It provides on-demand access to stock quantities, retail prices, and net prices — while ensuring that confidential wholesale data is accessible only to authorized administrators.
+The **Inventory Application** is designed to streamline stock management and pricing visibility while protecting sensitive business information. It provides on-demand access to stock quantities, retail prices, and net prices — while ensuring that confidential wholesale data is accessible only to authorized administrators.
 
 ---
 
